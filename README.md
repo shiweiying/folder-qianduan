@@ -52,3 +52,12 @@
  
  17.谷歌软件工程技术实践总结：软件开发、管理和人员调配
  http://www.toutiao.com/i6386095526206505473/?tt_from=weixin_moments&utm_campaign=client_share&from=timeline&app=news_article&utm_source=weixin_moments&isappinstalled=1&iid=7661393462&utm_medium=toutiao_android&wxshare_count=2&pbid=25781445321
+
+18.ES5中新增的Array方法详细说明
+http://www.zhangxinxu.com/wordpress/2013/04/es5%E6%96%B0%E5%A2%9E%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95/
+
+19.React 技术栈系列教程
+http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html
+
+20.EDM邮件经验
+https://www.douban.com/note/241473644/
