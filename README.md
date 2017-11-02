@@ -61,3 +61,6 @@ http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html
 
 20.EDM邮件经验
 https://www.douban.com/note/241473644/
+
+21.包含异步，作用域，闭包的一道题
+http://www.cnblogs.com/wangwenhui/p/7657654.html
